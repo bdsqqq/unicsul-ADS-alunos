@@ -1,6 +1,6 @@
 ### Alunos
 
-- Igor Bedesqui, @bdsqqq no Github
+- Igor Bedesqui, @bdsqqq no Github. Adoro programar com typescript e tecnologias web.
 
 # Como adicionar seu nome...
 
