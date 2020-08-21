@@ -1,6 +1,7 @@
 ### Alunos
 
 - Igor Bedesqui, @bdsqqq no Github. Adoro programar com typescript e tecnologias web.
+- Gabriel Loch, [@grloch](https://github.com/grloch), desenvolvedor Web, consultor Salesforce, mago dos códigos com R$ 4,00 no banco
 
 # Como adicionar seu nome...
 
